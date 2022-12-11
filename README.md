@@ -1,5 +1,5 @@
 # House-prices
-This project is about predicting residential homes in Ames, Iowa. Original competition is here https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques. 
+This project is about predicting prices for houses in Ames, Iowa. Original kaggle competition is here https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques. 
 The features engeneering includes:
 - **Imputing missing** values by proceeding sequentially through the data
 - **Transforming** some numerical variables that seem really categorical
