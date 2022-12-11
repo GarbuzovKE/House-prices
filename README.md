@@ -7,4 +7,4 @@ The features engeneering includes:
 - **Box Cox Transformation** of skewed features.
 - **Getting dummy variables** for categorical features. 
 
-Then i chose base models, cross-validateв them on the data and stacked them. Base models are robust to outlies via Robust scaler.
+Then i chose base models, cross-validated them on the data and stacked them. Base models are robust to outlies via Robust scaler.
